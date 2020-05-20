@@ -9,8 +9,8 @@
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d src",
-    "parcel": "parcel build src/index.html --public-url /my-folder-name/"
+    "deploy": "gh-pages -d dist",
+    "parcel": "parcel build src/index.html --public-url dist/"
   },
   "author": "",
   "license": "ISC",
