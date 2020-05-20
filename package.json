@@ -1,4 +1,5 @@
 {
+  "homepage": "https://eltonleao.github.io/SoundWaves/",
   "name": "soudwave",
   "version": "1.0.0",
   "description": "lorem ipsum",
@@ -8,7 +9,7 @@
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d src",
     "parcel": "parcel build src/index.html --public-url /my-folder-name/"
   },
   "author": "",
