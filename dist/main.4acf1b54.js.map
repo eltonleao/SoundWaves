@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/main.js"],"names":[],"mappings":";;;;;AACA,aADA,QAAA,0BACA,QAAA","file":"main.4acf1b54.js","sourceRoot":"../src","sourcesContent":["import './../scss/globals.scss';\nimport './../scss/home.scss';"]}

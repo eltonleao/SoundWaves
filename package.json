@@ -5,10 +5,8 @@
   "description": "lorem ipsum",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html",
-    "predeploy": "npm run build",
+    "build": "parcel build src/index.html --public-url /dist/",
     "deploy": "gh-pages -d dist",
     "parcel": "parcel build src/index.html --public-url dist/"
   },
