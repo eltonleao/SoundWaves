@@ -1,5 +1,5 @@
 # SoundWaves
-Frontend exercise hosted on [this guthub pages link](https://eltonleao.github.io/SoundWaves/)
+Frontend exercise hosted on [this github-pages link](https://eltonleao.github.io/SoundWaves/)
 
 ## source
 This exercise was bring to us for free by this two amazing youtubers:
